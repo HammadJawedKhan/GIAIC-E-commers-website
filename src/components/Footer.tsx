@@ -40,7 +40,7 @@ export default function Footer() {
           <h1 className='font-bold text-2xl'>shop.co</h1>
         </a>
         <div className="mt-6">
-          <p className="text-gray-600 w-72 leading-relaxed text-sm">We have clothes that suit you style and which your're proud to wear.From women to men</p>
+          <p className="text-gray-600 w-72 leading-relaxed text-sm">We have clothes that suit you style and which yourre proud to wearFrom women to men</p>
         </div>
         <ul className="mt-10 flex space-x-5">
           <li>

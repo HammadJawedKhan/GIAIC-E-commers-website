@@ -45,8 +45,8 @@ function page() {
     < h1 className="font-extrabold text-2xl text-gray-300"> <del>$360</del></h1> 
     <h1 className="w-16 px-2 pt-1 bg-red-200 font-bold text-xl text-red-500 border-2 rounded-full">-40%</h1>
     </div>  
-  <p className="w-[500px] ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda accusamus possimus venia</p>
-<hr /> 
+  <p className="w-80 md:w-[500px] ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda accusamus possimus venia</p>
+
   <div className="space-y-4">
     <h1>Select Colour</h1>
     <h2> <Image src={img8} alt=""/> </h2>
