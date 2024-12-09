@@ -43,7 +43,7 @@ export default function Nvbar() {
       <li><a>Brands</a></li>
       </ul>
         </div>
-        <a className="font-bold text-3xl text-black">SHOP.CO</a>
+        <a className="font-extrabold text-3xl text-black">SHOP.CO</a>
       </div>
 
       <div className="navbar-center hidden lg:flex">

@@ -54,7 +54,7 @@ export default function Mainpage() {
           <Image
             src={img}
             alt="login-image"
-            className="object-contain w-full h-full md:h-[600px] md:w-auto"
+            className="object-contain mb-5 w-full h-full md:h-[600px] md:w-auto"
           />
           
         </div>
